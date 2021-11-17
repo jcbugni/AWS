@@ -1,0 +1,1 @@
+s3://dio-cognizant-datalake-prod/temp/
